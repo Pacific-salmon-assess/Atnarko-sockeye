@@ -1,5 +1,4 @@
 # Atnarko-sockeye
-## Background context
 Work in progress repository for Atnarko sockeye. Intended to support: 
 
 1.	a deep dive on available and updated data; 
