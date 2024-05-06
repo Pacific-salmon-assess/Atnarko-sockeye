@@ -1,1 +1,1 @@
-folder for background documents and miscellaneous files.
+# Folder for background documents and miscellaneous files.
