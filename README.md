@@ -12,5 +12,5 @@ Some background reading includes [2015 Nuxalk Atanrko Sockeye Recoveyr Plan](htt
 
 - `data`: all raw data should go in this folder. Contains seperate sub-folders for different type of data. 
 - `R`: all scripts to process data, fit models, draw inference, should go in this folder.
-- 'docs': folder for background documents and miscellaneous files
+- `docs`: folder for background documents and miscellaneous files
 
