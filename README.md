@@ -11,8 +11,7 @@ Some background reading includes [2015 Nuxalk Atanrko Sockeye Recoveyr Plan](htt
 
 ## Repository structure
 
-- `probable-status.Rmd`: Sources data, wrangles it, calculates rates of change by DU, summarizes probable status and associated DU level metadata. Renders html document.
-- `data`: DU metadata and associated time series of mature individuals. Sourced from [here](https://github.com/hertzPSF/COSEWIC-compilation), original data sources detailed in [data sources](https://github.com/Pacific-salmon-assess/COSEWIC-prioritize/blob/main/README.md#data-sources).
-- `output`: All outputs including master .csv of percent change in mature individuals and probable DU status designations, stand alone plots of mature individuals over time by species and region.
+- `data`: all raw data should go in this folder. Contains seperate sub-folders for different type of data. 
+- `R`: all scripts to process data, fit models, draw inference, should go in this folder.
+- 'docs': folder for background documents and miscellaneous files
 
-If
