@@ -1,0 +1,2 @@
+'commercial-harvest.csv' is all sockeye retained by gear and area, not apportioned to Atnarko 
+FSC-harvest.csv' is all sockeye retained by gear and area, not apportioned to Atnarko, thought Bella Coola River harvest by definition Atnarko only harvest 
