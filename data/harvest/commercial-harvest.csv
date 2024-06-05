@@ -1,289 +1,354 @@
-year,gear,area,catch,source-notes
-1975,gillnet,LFFH,45186,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 7-9 totals
-1976,gillnet,LFFH,25956,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,gillnet,LFFH,3193,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,gillnet,LFFH,19122,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,gillnet,LFFH,39906,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,gillnet,LFFH,25376,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,gillnet,LFFH,24337,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,gillnet,LFFH,12690,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,gillnet,LFFH,17681,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,gillnet,LFFH,8491,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,gillnet,LFFH,16052,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,gillnet,LFFH,24186,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,gillnet,LFFH,25236,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,gillnet,LFFH,17669,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,gillnet,LFFH,3550,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,gillnet,LFFH,19364,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,gillnet,LFFH,20347,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,gillnet,LFFH,7082,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,gillnet,LFFH,18823,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,gillnet,LFFH,19258,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,gillnet,LFFH,28353,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,gillnet,LFFH,17586,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,gillnet,LFFH,7044,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,gillnet,LFFH,7328,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,gillnet,LFFH,2656,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,gillnet,LFFH,1446,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,gillnet,LFFH,1186,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,gillnet,LFFH,2135,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,gillnet,LFFH,4827,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,gillnet,LFFH,2852,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,gillnet,LFFH,838,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,gillnet,LFFH,1142,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1976,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,gillnet,UFFH,3029,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,gillnet,UFFH,2761,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,gillnet,UFFH,3414,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,gillnet,UFFH,45,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,gillnet,UFFH,189,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,gillnet,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,gillnet,BCGNA,42121,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1976,gillnet,BCGNA,34381,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,gillnet,BCGNA,32560,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,gillnet,BCGNA,0,unclear if this truly 0; estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,gillnet,BCGNA,26276,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,gillnet,BCGNA,23699,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,gillnet,BCGNA,20739,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,gillnet,BCGNA,8072,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,gillnet,BCGNA,17836,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,gillnet,BCGNA,13508,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,gillnet,BCGNA,19699,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,gillnet,BCGNA,7330,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,gillnet,BCGNA,14196,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,gillnet,BCGNA,22918,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,gillnet,BCGNA,5651,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,gillnet,BCGNA,3798,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,gillnet,BCGNA,12229,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,gillnet,BCGNA,4804,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,gillnet,BCGNA,1837,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,gillnet,BCGNA,2006,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,gillnet,BCGNA,8754,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,gillnet,BCGNA,3374,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,gillnet,BCGNA,618,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,gillnet,BCGNA,1137,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,gillnet,BCGNA,144,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,gillnet,BCGNA,516,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,gillnet,BCGNA,166,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,gillnet,BCGNA,382,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,gillnet,BCGNA,317,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,gillnet,BCGNA,241,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,gillnet,BCGNA,112,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,gillnet,BCGNA,45,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,gillnet,DC,55765,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1976,gillnet,DC,33355,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,gillnet,DC,1114,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,gillnet,DC,581,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,gillnet,DC,39205,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,gillnet,DC,4209,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,gillnet,DC,3157,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,gillnet,DC,1312,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,gillnet,DC,9502,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,gillnet,DC,5576,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,gillnet,DC,9022,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,gillnet,DC,5166,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,gillnet,DC,30075,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,gillnet,DC,2548,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,gillnet,DC,162,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,gillnet,DC,2884,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,gillnet,DC,21757,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,gillnet,DC,14,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,gillnet,DC,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,gillnet,DC,23,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,gillnet,DC,627,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,gillnet,DC,65,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,gillnet,DC,51,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,gillnet,DC,69,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,gillnet,DC,1,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,gillnet,DC,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,gillnet,DC,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,gillnet,DC,12,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,gillnet,DC,68,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,gillnet,DC,2,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,gillnet,DC,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,gillnet,DC,2,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1976,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,gillnet,Hakai,554,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,gillnet,Hakai,34,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,gillnet,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,seine,LFFH,82642,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1976,seine,LFFH,107906,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,seine,LFFH,51481,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,seine,LFFH,33280,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,seine,LFFH,114726,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,seine,LFFH,112990,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,seine,LFFH,130880,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,seine,LFFH,13214,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,seine,LFFH,87451,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,seine,LFFH,15895,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,seine,LFFH,71107,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,seine,LFFH,62032,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,seine,LFFH,110759,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,seine,LFFH,106509,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,seine,LFFH,19204,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,seine,LFFH,96885,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,seine,LFFH,51730,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,seine,LFFH,97580,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,seine,LFFH,41092,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,seine,LFFH,201488,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,seine,LFFH,31707,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,seine,LFFH,4903,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,seine,LFFH,23828,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,seine,LFFH,13852,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,seine,LFFH,3239,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,seine,LFFH,593,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,seine,LFFH,1051,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,seine,LFFH,3263,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,seine,LFFH,13968,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,seine,LFFH,1888,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,seine,LFFH,16,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,seine,LFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1976,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,seine,UFFH,29888,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,seine,UFFH,15244,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,seine,UFFH,30235,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,seine,UFFH,5998,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,seine,UFFH,4782,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,seine,UFFH,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1976,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1977,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1978,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1979,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1980,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1981,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1982,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1983,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1984,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1985,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1986,seine,Hakai,14921,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1987,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1988,seine,Hakai,10869,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1989,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1990,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1991,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1992,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1993,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1994,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1995,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1996,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1997,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1998,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1999,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2000,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2001,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2002,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2003,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2004,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2005,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-2006,seine,Hakai,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
-1975,troll,all,336,taken from North Coast troll spreadsheet
-1976,troll,all,1213,taken from North Coast troll spreadsheet
-1977,troll,all,1019,taken from North Coast troll spreadsheet
-1978,troll,all,3322,taken from North Coast troll spreadsheet
-1979,troll,all,3653,taken from North Coast troll spreadsheet
-1980,troll,all,865,taken from North Coast troll spreadsheet
-1981,troll,all,1708,taken from North Coast troll spreadsheet
-1982,troll,all,1557,taken from North Coast troll spreadsheet
-1983,troll,all,3026,taken from North Coast troll spreadsheet
-1984,troll,all,550,taken from North Coast troll spreadsheet
-1985,troll,all,3359,taken from North Coast troll spreadsheet
-1986,troll,all,5951,taken from North Coast troll spreadsheet
-1987,troll,all,4585,taken from North Coast troll spreadsheet; not sure if this value includes catch in Area 108
-1988,troll,all,62,taken from North Coast troll spreadsheet; not sure if this value includes catch in Area 108
-1989,troll,all,1228,taken from North Coast troll spreadsheet
-1990,troll,all,3089,taken from North Coast troll spreadsheet
-1991,troll,all,176,taken from North Coast troll spreadsheet
-1992,troll,all,97,taken from North Coast troll spreadsheet
-1993,troll,all,127,taken from North Coast troll spreadsheet
-1994,troll,all,9894,taken from North Coast troll spreadsheet
-1995,troll,all,438,taken from North Coast troll spreadsheet
-1996,troll,all,4,taken from North Coast troll spreadsheet
-1997,troll,all,44,taken from North Coast troll spreadsheet
-1998,troll,all,0,taken from North Coast troll spreadsheet
-1999,troll,all,0,taken from North Coast troll spreadsheet
-2000,troll,all,0,taken from North Coast troll spreadsheet
-2001,troll,all,0,taken from North Coast troll spreadsheet
-2002,troll,all,0,taken from North Coast troll spreadsheet
-2003,troll,all,0,taken from North Coast troll spreadsheet
-2004,troll,all,1,taken from North Coast troll spreadsheet
-2005,troll,all,0,taken from North Coast troll spreadsheet
-2006,troll,all,0,taken from North Coast troll spreadsheet
+year,gear,target_spp,area,catch,released,source-notes
+1975,gillnet,sockeye,LFFH,45186,,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 7-9 totals
+1975,gillnet,sockeye,UFFH,0,,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1975,gillnet,sockeye,BCGNA,42121,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1975,gillnet,sockeye,DC,55765,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1975,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1975,seine,sockeye,LFFH,82642,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1975,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1975,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1975,troll,sockeye,all,336,0,taken from North Coast troll spreadsheet
+1976,gillnet,sockeye,LFFH,25956,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,gillnet,sockeye,BCGNA,34381,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,gillnet,sockeye,DC,33355,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,seine,sockeye,LFFH,107906,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1976,troll,sockeye,all,1213,0,taken from North Coast troll spreadsheet
+1977,gillnet,sockeye,LFFH,3193,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,gillnet,sockeye,BCGNA,32560,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,gillnet,sockeye,DC,1114,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,seine,sockeye,LFFH,51481,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1977,troll,sockeye,all,1019,0,taken from North Coast troll spreadsheet
+1978,gillnet,sockeye,LFFH,19122,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,gillnet,sockeye,BCGNA,0,0,unclear if this truly 0; estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,gillnet,sockeye,DC,581,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,seine,sockeye,LFFH,33280,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1978,troll,sockeye,all,3322,0,taken from North Coast troll spreadsheet
+1979,gillnet,sockeye,LFFH,39906,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,gillnet,sockeye,BCGNA,26276,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,gillnet,sockeye,DC,39205,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,seine,sockeye,LFFH,114726,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1979,troll,sockeye,all,3653,0,taken from North Coast troll spreadsheet
+1980,gillnet,sockeye,LFFH,25376,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,gillnet,sockeye,BCGNA,23699,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,gillnet,sockeye,DC,4209,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,seine,sockeye,LFFH,112990,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1980,troll,sockeye,all,865,0,taken from North Coast troll spreadsheet
+1981,gillnet,sockeye,LFFH,24337,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,gillnet,sockeye,BCGNA,20739,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,gillnet,sockeye,DC,3157,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,seine,sockeye,LFFH,130880,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1981,troll,sockeye,all,1708,0,taken from North Coast troll spreadsheet
+1982,gillnet,sockeye,LFFH,12690,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,gillnet,sockeye,BCGNA,8072,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,gillnet,sockeye,DC,1312,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,seine,sockeye,LFFH,13214,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1982,troll,sockeye,all,1557,0,taken from North Coast troll spreadsheet
+1983,gillnet,sockeye,LFFH,17681,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,gillnet,sockeye,BCGNA,17836,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,gillnet,sockeye,DC,9502,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,seine,sockeye,LFFH,87451,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1983,troll,sockeye,all,3026,0,taken from North Coast troll spreadsheet
+1984,gillnet,sockeye,LFFH,8491,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,gillnet,sockeye,BCGNA,13508,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,gillnet,sockeye,DC,5576,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,seine,sockeye,LFFH,15895,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1984,troll,sockeye,all,550,0,taken from North Coast troll spreadsheet
+1985,gillnet,sockeye,LFFH,16052,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,gillnet,sockeye,UFFH,3029,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,gillnet,sockeye,BCGNA,19699,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,gillnet,sockeye,DC,9022,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,seine,sockeye,LFFH,71107,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,seine,sockeye,UFFH,29888,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1985,troll,sockeye,all,3359,0,taken from North Coast troll spreadsheet
+1986,gillnet,sockeye,LFFH,24186,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,gillnet,sockeye,UFFH,2761,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,gillnet,sockeye,BCGNA,7330,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,gillnet,sockeye,DC,5166,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,gillnet,sockeye,Hakai,554,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,seine,sockeye,LFFH,62032,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,seine,sockeye,UFFH,15244,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,seine,sockeye,Hakai,14921,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1986,troll,sockeye,all,5951,0,taken from North Coast troll spreadsheet
+1987,gillnet,sockeye,LFFH,25236,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,gillnet,sockeye,UFFH,3414,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,gillnet,sockeye,BCGNA,14196,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,gillnet,sockeye,DC,30075,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,seine,sockeye,LFFH,110759,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,seine,sockeye,UFFH,30235,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1987,troll,sockeye,all,4585,0,taken from North Coast troll spreadsheet; not sure if this value includes catch in Area 108
+1988,gillnet,sockeye,LFFH,17669,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,gillnet,sockeye,UFFH,45,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,gillnet,sockeye,BCGNA,22918,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,gillnet,sockeye,DC,2548,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,gillnet,sockeye,Hakai,34,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,seine,sockeye,LFFH,106509,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,seine,sockeye,UFFH,5998,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,seine,sockeye,Hakai,10869,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1988,troll,sockeye,all,62,0,taken from North Coast troll spreadsheet; not sure if this value includes catch in Area 108
+1989,gillnet,sockeye,LFFH,3550,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,gillnet,sockeye,UFFH,189,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,gillnet,sockeye,BCGNA,5651,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,gillnet,sockeye,DC,162,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,seine,sockeye,LFFH,19204,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,seine,sockeye,UFFH,4782,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1989,troll,sockeye,all,1228,0,taken from North Coast troll spreadsheet
+1990,gillnet,sockeye,LFFH,19364,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,gillnet,sockeye,BCGNA,3798,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,gillnet,sockeye,DC,2884,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,seine,sockeye,LFFH,96885,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1990,troll,sockeye,all,3089,0,taken from North Coast troll spreadsheet
+1991,gillnet,sockeye,LFFH,20347,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,gillnet,sockeye,BCGNA,12229,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,gillnet,sockeye,DC,21757,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,seine,sockeye,LFFH,51730,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1991,troll,sockeye,all,176,0,taken from North Coast troll spreadsheet
+1992,gillnet,sockeye,LFFH,7082,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,gillnet,sockeye,BCGNA,4804,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,gillnet,sockeye,DC,14,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,seine,sockeye,LFFH,97580,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1992,troll,sockeye,all,97,0,taken from North Coast troll spreadsheet
+1993,gillnet,sockeye,LFFH,18823,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,gillnet,sockeye,BCGNA,1837,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,gillnet,sockeye,DC,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,seine,sockeye,LFFH,41092,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1993,troll,sockeye,all,127,0,taken from North Coast troll spreadsheet
+1994,gillnet,sockeye,LFFH,19258,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,gillnet,sockeye,BCGNA,2006,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,gillnet,sockeye,DC,23,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,seine,sockeye,LFFH,201488,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1994,troll,sockeye,all,9894,0,taken from North Coast troll spreadsheet
+1995,gillnet,sockeye,LFFH,28353,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,gillnet,sockeye,BCGNA,8754,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,gillnet,sockeye,DC,627,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,seine,sockeye,LFFH,31707,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1995,troll,sockeye,all,438,0,taken from North Coast troll spreadsheet
+1996,gillnet,sockeye,LFFH,17586,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,gillnet,sockeye,BCGNA,3374,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,gillnet,sockeye,DC,65,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,seine,sockeye,LFFH,4903,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1996,troll,sockeye,all,4,0,taken from North Coast troll spreadsheet
+1997,gillnet,sockeye,LFFH,7044,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,gillnet,sockeye,BCGNA,618,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,gillnet,sockeye,DC,51,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,seine,sockeye,LFFH,23828,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1997,troll,sockeye,all,44,0,taken from North Coast troll spreadsheet
+1998,gillnet,sockeye,LFFH,7328,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,gillnet,sockeye,BCGNA,1137,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,gillnet,sockeye,DC,69,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,seine,sockeye,LFFH,13852,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1998,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+1999,gillnet,sockeye,LFFH,2656,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,gillnet,sockeye,BCGNA,144,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,gillnet,sockeye,DC,1,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,seine,sockeye,LFFH,3239,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+1999,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+2000,gillnet,sockeye,LFFH,1446,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,gillnet,sockeye,BCGNA,516,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,gillnet,sockeye,DC,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,seine,sockeye,LFFH,593,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2000,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+2001,gillnet,sockeye,LFFH,1186,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,gillnet,sockeye,BCGNA,166,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,gillnet,sockeye,DC,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,seine,sockeye,LFFH,1051,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2001,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+2002,gillnet,sockeye,LFFH,2135,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,gillnet,sockeye,BCGNA,382,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,gillnet,sockeye,DC,12,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,seine,sockeye,LFFH,3263,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2002,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+2003,gillnet,sockeye,LFFH,4827,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,gillnet,sockeye,BCGNA,317,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,gillnet,sockeye,DC,68,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,seine,sockeye,LFFH,13968,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2003,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+2004,gillnet,sockeye,LFFH,2852,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,gillnet,sockeye,BCGNA,241,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,gillnet,sockeye,DC,2,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,seine,sockeye,LFFH,1888,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2004,troll,sockeye,all,1,0,taken from North Coast troll spreadsheet
+2005,gillnet,sockeye,LFFH,838,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,gillnet,sockeye,BCGNA,112,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,gillnet,sockeye,DC,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,seine,sockeye,LFFH,16,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2005,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+2006,gillnet,sockeye,LFFH,1142,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,gillnet,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,gillnet,sockeye,BCGNA,45,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,gillnet,sockeye,DC,2,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,gillnet,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,seine,sockeye,LFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,seine,sockeye,UFFH,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,seine,sockeye,Hakai,0,0,estimated as field catch ratios by sub-area and gear type applied to the Blue Book Area 9 totals
+2006,troll,sockeye,all,0,0,taken from North Coast troll spreadsheet
+2001,gillnet,chinook_chum,BCGNA,112,0,2001 PSR
+2001,gillnet,chum,DC,0,0,2001 PSR
+2001,gillnet,chum_pink,LFFH,799,0,2001 PSR
+2001,seine,chum_pink,LFFH,872,0,2001 PSR
+2002,gillnet,chinook_chum,BCGNA,320,0,2002 RMS
+2002,gillnet,chum,DC,10,0,2002 RMS
+2002,gillnet,chum_pink,LFFH,1786,0,2002 RMS
+2002,seine,chum_pink,LFFH,2730,0,2002 RMS
+2003,gillnet,chinook_chum,BCGNA,261,0,2003 RMS
+2003,gillnet,chum,DC,56,0,2003 RMS
+2003,gillnet,chum_pink,LFFH,3975,0,2003 RMS
+2003,seine,chum_pink,LFFH,3736,0,2003 RMS
+2004,gillnet,chinook_chum,BCGNA,142,0,2004 PSR
+2004,gillnet,chum,DC,1,0,2004 PSR
+2004,gillnet,chum_pink,LFFH,1677,0,2004 PSR
+2004,seine,chum_pink,LFFH,1337,0,2004 PSR
+2005,gillnet,chinook_chum,BCGNA,128,0,2005 RMS
+2005,gillnet,chum,DC,0,0,2005 RMS
+2005,gillnet,chum_pink,LFFH,961,0,2005 RMS
+2005,seine,chum_pink,LFFH,0,0,2005 RMS
+2006,gillnet,chinook_chum,BCGNA,45,0,2006 PSR
+2006,gillnet,chum,DC,2,0,2006 PSR
+2006,gillnet,chum_pink,LFFH,1142,0,2006 PSR
+2006,seine,chum_pink,LFFH,0,0,2006 PSR
+2007,gillnet,chinook_chum,BCGNA,35,0,2007 PSR
+2007,gillnet,chum,DC,2,0,2007 PSR
+2007,gillnet,chum_pink,LFFH,325,0,2007 PSR
+2007,seine,chum_pink,LFFH,0,0,2007 PSR
+2008,gillnet,chinook_chum,BCGNA,13,0,2008 PSR
+2008,gillnet,chum_pink,LFFH,184,0,2008 PSR
+2008,seine,chum_pink,LFFH,197,0,2008 PSR
+2009,gillnet,chinook_chum,BCGNA,306,0,2009 PSR
+2009,gillnet,chum,DC,0,0,2009 PSR
+2009,gillnet,chum_pink,LFFH,765,0,2009 PSR
+2009,seine,chum_pink,LFFH,0,0,2009 PSR
+2010,gillnet,chinook_chum,BCGNA,32,0,2010 PSR
+2010,gillnet,chum_pink,LFFH,268,0,2010 PSR
+2010,gillnet,chum,DC,0,0,2010 PSR
+2011,gillnet,chinook_chum,BCGNA,19,0,2011 PSR
+2011,gillnet,chum,DC,177,0,2011 PSR
+2011,gillnet,chum_pink,LFFH,279,0,2011 PSR
+2011,seine,chum_pink,LFFH,0,0,2011 PSR
+2012,gillnet,chinook_chum,BCGNA,85,95,2012 PSR
+2012,gillnet,chum,DC,4,0,2012 PSR
+2012,gillnet,chum_pink,LFFH,462,0,2012 PSR
+2012,seine,chum_pink,LFFH,39,993,2012 PSR
+2013,gillnet,chinook_chum,BCGNA,242,54,2013 PSR
+2013,gillnet,chum,DC,2,2,2013 PSR
+2013,gillnet,chum_pink,LFFH,2077,206,2013 PSR
+2013,seine,chum_pink,LFFH,0,1892,2013 PSR
+2014,gillnet,chinook_chum,BCGNA,76,53,2014 PSR
+2014,gillnet,chum_pink,LFFH,618,46,2014 PSR
+2014,seine,chum_pink,LFFH,0,112,2014 PSR
+2015,gillnet,chinook_chum,BCGNA,246,23,2015 PSR
+2015,gillnet,chum,DC,2,5,2015 PSR
+2015,gillnet,chum_pink,LFFH,1563,148,2015 PSR
+2015,seine,chum_pink,LFFH,0,748,2015 PSR
+2016,gillnet,chinook_chum,BCGNA,364,108,2016 PSR
+2016,gillnet,chum,DC,21,10,2016 PSR
+2016,gillnet,chum_pink,LFFH,4910,524,2016 PSR
+2016,seine,chum_pink,LFFH,0,1902,2016 PSR
+2017,gillnet,chinook_chum,BCGNA,100,100,2017 PSR
+2017,gillnet,chum,DC,7,7,2017 PSR
+2017,gillnet,chum_pink,LFFH,646,646,2017 PSR
+2017,seine,chum_pink,LFFH,0,0,2017 PSR
