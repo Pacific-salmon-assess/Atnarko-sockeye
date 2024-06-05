@@ -23,17 +23,17 @@ year,above_lonesome,below_lonesome,total_spawn,survey_method,source-notes
 1987,17550,13230,30780,foot,"Atnarko Sockeye Binder and BC16 Historic // Neither (Escapement Records had N/R for Cascade which in RMS was 3 and RMS 55593 wrong b/c of rounding on Bella Coola); Stillwater to Lonesome- est. 5,000 and above Lonesome est. 17,100.  BC16 Historic has a count Sept 20 that had 100 obs and 600 est below Stillwater to Fisheries Pool.  Assumed 22,100 expanded to 25K for the annual estimate.  Used the ratios to determine ocean vs. lake types."
 1988,26500,3500,30000,foot,"BC16 Historic // RMS and Escapement Records; BC16 Historic obs 30,281"
 1989,6000,9000,15000,foot,"Atnarko Sockeye Binder and BC16 Historic // Escapement Records (RMS 29327 wrong b/c missed 10 Atn Sp Ch and 1 Cascade); BC16 Historic obs 15,009"
-1990,19097 ,903 ,20000,foot_boat,Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records; Total of counts came to 14059. I assumed this number expanded to 20K.   I used the obs #  to determine expansions to each section inspected to come up with ocean vs. lake types
-1991,37288 ,15212 ,52500,foot_boat,Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records
-1992,37014 ,3986 ,41000,foot_boat,"Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records; If sum live + dead but from records was actually 41,139."
-1993,15000 ,,15000,,Escapement Records (RMS 29682 wrong b/c didn't add in Quatlena Sk)
-1994,9131 ,15869 ,25000,foot_boat,"Atnarko Sockeye Binder (Bella Coola Office)  // RMS and Escapement Records; Expanded from a count of 20,482 to 25,000 on fish observed holding in Stillwater Lake that were not enumerated."
-1995,40000 ,15000 ,55000,helicopter,Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records
-1996,45000 ,,45000,helicopter,RMS and Escapement Records
-1997,12425 ,7575 ,20000,helicopter,Atnarko Sockeye Binder (Bella Coola Office) // Escapement Records (RMS had 25300 as total Area 8 Sk)
-1998,7215 ,22785 ,30000,helicopter,Electronic BC16 Historic // RMS and Escapement Records
-1999,6250 ,18750 ,25000,fixed_wing,Electronic BC16 Historic // RMS and Escapement Records; BC16 had 5k above Lonesome and 15k below so expanded these using 25k annual estimate
-2000,3281 ,11719 ,15000,fixed_wing,"Electronic BC16 Historic // Escapement Records (RMS had 25290 as total Area 8 Sk); From flight 2000 above Lonesome, 800 in Lonesome (south end- assumed going u/s), and 10000 between Stillwater and Lonesome.  Estimate was 15k for the season, so expanded counts accordingly.  Wally Webber also estimated 1000 between Line Cabin and Belarko and 300 between Campsite and Fisheries Pool- I don't know if these factored into the estimate?"
+1990,19097,903,20000,foot_boat,Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records; Total of counts came to 14059. I assumed this number expanded to 20K.   I used the obs #  to determine expansions to each section inspected to come up with ocean vs. lake types
+1991,37288,15212,52500,foot_boat,Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records
+1992,37014,3986,41000,foot_boat,"Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records; If sum live + dead but from records was actually 41,139."
+1993,15000,,15000,,Escapement Records (RMS 29682 wrong b/c didn't add in Quatlena Sk)
+1994,9131,15869,25000,foot_boat,"Atnarko Sockeye Binder (Bella Coola Office)  // RMS and Escapement Records; Expanded from a count of 20,482 to 25,000 on fish observed holding in Stillwater Lake that were not enumerated."
+1995,40000,15000,55000,helicopter,Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records
+1996,45000,,45000,helicopter,RMS and Escapement Records
+1997,12425,7575,20000,helicopter,Atnarko Sockeye Binder (Bella Coola Office) // Escapement Records (RMS had 25300 as total Area 8 Sk)
+1998,7215,22785,30000,helicopter,Electronic BC16 Historic // RMS and Escapement Records
+1999,6250,18750,25000,fixed_wing,Electronic BC16 Historic // RMS and Escapement Records; BC16 had 5k above Lonesome and 15k below so expanded these using 25k annual estimate
+2000,3281,11719,15000,fixed_wing,"Electronic BC16 Historic // Escapement Records (RMS had 25290 as total Area 8 Sk); From flight 2000 above Lonesome, 800 in Lonesome (south end- assumed going u/s), and 10000 between Stillwater and Lonesome.  Estimate was 15k for the season, so expanded counts accordingly.  Wally Webber also estimated 1000 between Line Cabin and Belarko and 300 between Campsite and Fisheries Pool- I don't know if these factored into the estimate?"
 2001,4000,26000,30000,fixed_wing,Electronic BC16 Historic // Escapement Records (RMS had 31150 as total Area 8 Sk)
 2002,10000,40000,50000,fixed_wing,Electronic BC16 Historic // RMS and Escapement Records
 2003,3000,15000,18000,fixed_wing,Atnarko Sockeye Binder (Bella Coola Office) // RMS and Escapement Records
@@ -51,8 +51,3 @@ year,above_lonesome,below_lonesome,total_spawn,survey_method,source-notes
 2015,,,11194,,
 2016,,,6940,,
 2017,,,5224,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
