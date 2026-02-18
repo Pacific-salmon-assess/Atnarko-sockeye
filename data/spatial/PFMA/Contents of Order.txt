@@ -1,0 +1,15 @@
+------------------
+Order Details
+-----------------
+Order ID: 2171338
+Date: 20211104
+
+
+----------------------
+Feature Types
+-----------------------
+ - DFO Fisheries Management Sub Areas in directory DFO_SBAREA
+
+----------------------------
+Packaged Products
+----------------------------
