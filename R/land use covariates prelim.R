@@ -126,7 +126,7 @@ ocean <- bc_neighbours(ask=FALSE) %>%
   filter(type=="Ocean")
 
 nux_points <- sf::st_centroid(nux_shp_union)
-nux_points <- cbind(nux_shp_union, st_coordinates(st_centroid(nux_points$geometry))*c(1.065,1.075))
+nux_points <- cbind(nux_shp_union, st_coordinates(st_centroid(nux_points$geometry))*c(1.005,1.175))
 nux_points$name <- "Bella Coola & Atnarko Watersheds"
 
 bella_coola_watershed <- watersheds[watersheds$WATERSHED_GROUP_CODE %in% c("BELA","ATNA"),]
