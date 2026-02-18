@@ -6,7 +6,7 @@ Work in progress repository for Atnarko sockeye. Intended to support:
 3.	improved documentation of key assumptions; and
 4.	analyses exploring evidence for regime shifts and hypothesized drivers of changes in system and implications for recovery potential and recovery targets
 
-Some background reading includes [2015 Nuxalk Atanrko Sockeye Recoveyr Plan](https://www.ccira.ca/wp-content/uploads/2018/07/AtnarkoSockeyRecoveryPlan-FullSizeRender-45.pdf) and [Conservation Risk and Uncertainty in Recovery Prospects for a Collapsed and Culturally Important Salmon Population in a Mixed-Stock Fishery](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10092)
+Some background reading includes [2015 Nuxalk Atnarko Sockeye Recovery Plan](https://www.ccira.ca/wp-content/uploads/2018/07/AtnarkoSockeyRecoveryPlan-FullSizeRender-45.pdf) and [Conservation Risk and Uncertainty in Recovery Prospects for a Collapsed and Culturally Important Salmon Population in a Mixed-Stock Fishery](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10092)
 
 ## Repository structure
 
