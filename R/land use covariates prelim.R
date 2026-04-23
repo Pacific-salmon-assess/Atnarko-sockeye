@@ -147,6 +147,18 @@ atnarko_fire_ts <- nuxalk_wildfires %>%
 
 saveRDS(atnarko_fire_ts,file="data/covariates/wildfire_bela_atna_timeseries.rds")
 
+ggplot(data=atnarko_fire_ts,aes(x=YEAR,y=hectares)) +
+  geom_point() +
+  geom_line() +
+  xlab("Year") + ylab("Burned area (ha)") +
+  theme_minimal()
+
+ggplot(data=atnarko_fire_ts,aes(x=YEAR,y=cumulative_area)) +
+  geom_point() +
+  geom_line() +
+  xlab("Year") + ylab("Cumulative area burned (ha)") +
+  theme_minimal()
+
 nux_all <- ggplot() +
   geom_sf(data = nux_shp_union, fill = "lightblue1") +
   geom_sf(data = bc_fish, fill = "white") +
