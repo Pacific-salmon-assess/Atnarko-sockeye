@@ -54,22 +54,29 @@ ocean_entry <- read.csv("data/marine/ocean_entry.csv")
 sst_anom <- read.csv("data/marine/sst_raw_anomalies.csv")
 
 ## Calculate average SST anomaly within 2x2 degree area where stock spends few months of marine life 
-summer_sst_stock_anomalies <- sst.averager(ocean_entry, sst_anom, distance = 200, which.months = c(5:9))
-winter_spring_sst_stock_anomalies <- sst.averager(ocean_entry, sst_anom, distance = 200, which.months = c(1:4))
+summer_sst_stock_anomalies <- sst.averager(ocean_entry, sst_anom, distance = 200, which.months = c(5:9)) |>
+  rename(summer_sst = sst) |>
+  select(year, summer_sst)
+
+winter_spring_sst_stock_anomalies <- sst.averager(ocean_entry, sst_anom, distance = 200, which.months = c(1:4))|>
+  rename(winter_sst = sst) |>
+  select(year, winter_sst)
+
+ssts <- left_join(summer_sst_stock_anomalies,winter_spring_sst_stock_anomalies, by="year")
 
 ggplot(data = summer_sst_stock_anomalies) +
-  geom_line(aes(x=year, y = sst)) +
+  geom_line(aes(x=year, y = summer_sst)) +
   xlab("Year") +
   ylab("Summer SST") +
   theme_bw() 
 
 ggplot(data = winter_spring_sst_stock_anomalies) +
-  geom_line(aes(x=year, y = sst)) +
+  geom_line(aes(x=year, y = winter_sst)) +
   xlab("Year") +
   ylab("Winter/spring SST") +
   theme_bw() 
 
-write.csv(summer_sst_stock_anomalies,"data/marine/atnarko-sst-summer.csv")
+write.csv(ssts,"data/marine/atnarko-ssts.csv")
 
 ## Read in NPGO index and wrangle to annual average. See here for data/info: https://www.o3d.org/npgo/
 npgo_raw <- read.csv("data/marine/npgo_raw.csv")
@@ -85,3 +92,9 @@ ggplot(data = npgo) +
   theme_bw() 
 
 write.csv(npgo,"data/marine/atnarko-npgo-annual.csv")
+
+## Combine everything into a single csv
+
+marine_covariates <- left_join(ssts,npgo, by="year")
+
+write.csv(npgo,"data/marine/atnarko-marine_covariates.csv")
