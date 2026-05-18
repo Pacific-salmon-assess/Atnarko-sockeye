@@ -71,17 +71,27 @@ npgo <- npgo_raw|>
           group_by(year) |>
           summarise(npgo_index=mean(npgo_index))
 
-## Combine everything into a single csv
+## North Pacific salmon abundances (updated from https://doi.org/10.1093/icesjms/fsae135)
+salmon_abundnaces <- read.csv("data/marine/total_np_salmon.csv")
 
-marine_covariates <- left_join(ssts,npgo, by="year")
+np_pinks <- salmon_abundnaces|>
+  rename(year = Return.Year,
+         pinks = Pink) |>
+  select(year,pinks) 
+  
+## Combine everything into a single csv
+marine_covariates <- left_join(ssts,npgo, by="year") |>
+  left_join(np_pinks, by="year")
 
 marine_covariates_long <- pivot_longer(marine_covariates,!year, names_to = "covariate", values_to = "value")
+
+library(ggsidekick)
 ggplot(data = marine_covariates_long) +
   geom_line(aes(x=year, y = value)) +
   facet_wrap(~covariate, scales="free", ncol=2) +
   xlab("Year") +
   ylab("value") +
-  theme_bw() 
+  theme_sleek() 
 
-
+ggsave("Figures/marine-covariates.jpeg")
 write.csv(npgo,"data/marine/atnarko-marine_covariates.csv")
