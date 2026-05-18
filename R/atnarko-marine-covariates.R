@@ -64,20 +64,6 @@ winter_spring_sst_stock_anomalies <- sst.averager(ocean_entry, sst_anom, distanc
 
 ssts <- left_join(summer_sst_stock_anomalies,winter_spring_sst_stock_anomalies, by="year")
 
-ggplot(data = summer_sst_stock_anomalies) +
-  geom_line(aes(x=year, y = summer_sst)) +
-  xlab("Year") +
-  ylab("Summer SST") +
-  theme_bw() 
-
-ggplot(data = winter_spring_sst_stock_anomalies) +
-  geom_line(aes(x=year, y = winter_sst)) +
-  xlab("Year") +
-  ylab("Winter/spring SST") +
-  theme_bw() 
-
-write.csv(ssts,"data/marine/atnarko-ssts.csv")
-
 ## Read in NPGO index and wrangle to annual average. See here for data/info: https://www.o3d.org/npgo/
 npgo_raw <- read.csv("data/marine/npgo_raw.csv")
 
@@ -85,16 +71,17 @@ npgo <- npgo_raw|>
           group_by(year) |>
           summarise(npgo_index=mean(npgo_index))
 
-ggplot(data = npgo) +
-  geom_line(aes(x=year, y = npgo_index)) +
-  xlab("Year") +
-  ylab("NPGO") +
-  theme_bw() 
-
-write.csv(npgo,"data/marine/atnarko-npgo-annual.csv")
-
 ## Combine everything into a single csv
 
 marine_covariates <- left_join(ssts,npgo, by="year")
+
+marine_covariates_long <- pivot_longer(marine_covariates,!year, names_to = "covariate", values_to = "value")
+ggplot(data = marine_covariates_long) +
+  geom_line(aes(x=year, y = value)) +
+  facet_wrap(~covariate, scales="free", ncol=2) +
+  xlab("Year") +
+  ylab("value") +
+  theme_bw() 
+
 
 write.csv(npgo,"data/marine/atnarko-marine_covariates.csv")
