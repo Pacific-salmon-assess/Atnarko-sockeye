@@ -3,7 +3,6 @@
 # code to wrangle marine covariates for Atnarko sockeye analyses
 # for sst wrangling package see: https://github.com/michaelmalick/r-ersst
 #########################################################################################
-
 library(plyr)
 library(tidyverse)
 source("R/sst functions.R")
@@ -55,11 +54,11 @@ sst_anom <- read.csv("data/marine/sst_raw_anomalies.csv")
 
 ## Calculate average SST anomaly within 2x2 degree area where stock spends few months of marine life 
 summer_sst_stock_anomalies <- sst.averager(ocean_entry, sst_anom, distance = 200, which.months = c(5:9)) |>
-  rename(summer_sst = sst) |>
+  dplyr::rename(summer_sst = sst) |>
   select(year, summer_sst)
 
 winter_spring_sst_stock_anomalies <- sst.averager(ocean_entry, sst_anom, distance = 200, which.months = c(1:4))|>
-  rename(winter_sst = sst) |>
+  dplyr::rename(winter_sst = sst) |>
   select(year, winter_sst)
 
 ssts <- left_join(summer_sst_stock_anomalies,winter_spring_sst_stock_anomalies, by="year")
@@ -69,19 +68,19 @@ npgo_raw <- read.csv("data/marine/npgo_raw.csv")
 
 npgo <- npgo_raw|>
           group_by(year) |>
-          summarise(npgo_index=mean(npgo_index))
+          dplyr::summarise(npgo_index=mean(npgo_index))
 
 ## North Pacific salmon abundances (updated from https://doi.org/10.1093/icesjms/fsae135)
 salmon_abundnaces <- read.csv("data/marine/total_np_salmon.csv")
 
 np_pinks <- salmon_abundnaces|>
-  rename(year = Return.Year,
+  dplyr::rename(year = Return.Year,
          pinks = Pink) |>
   select(year,pinks) 
   
 ## Combine everything into a single csv
 marine_covariates <- left_join(ssts,npgo, by="year") |>
-  left_join(np_pinks, by="year")
+  dplyr::left_join(np_pinks, by="year")
 
 marine_covariates_long <- pivot_longer(marine_covariates,!year, names_to = "covariate", values_to = "value")
 
@@ -94,4 +93,4 @@ ggplot(data = marine_covariates_long) +
   theme_sleek() 
 
 ggsave("Figures/marine-covariates.jpeg")
-write.csv(npgo,"data/marine/atnarko-marine_covariates.csv")
+write.csv(marine_covariates,"data/marine/atnarko-marine_covariates.csv")
