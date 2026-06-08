@@ -1,4 +1,7 @@
-All raw age data as extracted from Atnarko sockeye xlsx spreadsheet Age tab. data within this folder includes:
+All raw age data as extracted from Atnarko sockeye xlsx spreadsheet Age tab. These data were chosen to NOT be included in an updated analysis due to other sources being more traceable (thus repeatable), and they are not as up to date.. These data came from compilations by Matt and Steve over the years.
+
+
+data within this folder includes:
 
 - Total age of sockeye (1-6years) in each source category split into a csv:
 	- `spawners_age` 
