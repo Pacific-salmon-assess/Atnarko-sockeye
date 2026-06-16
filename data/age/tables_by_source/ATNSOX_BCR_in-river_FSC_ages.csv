@@ -1,0 +1,40 @@
+﻿Year,2,3,4,5,6,total aged successfully,source
+1976,0,0,42,49,0,91,KM MSC dataset
+1977,0,2,42,2,0,46,KM MSC dataset
+1978,0,22,425,270,4,721,KM MSC dataset
+1979,0,11,109,57,0,177,KM MSC dataset
+1980,0,23,291,58,1,373,KM MSC dataset
+1981,0,8,95,52,0,155,KM MSC dataset
+1982,0,3,71,36,0,110,KM MSC dataset
+1983,0,4,84,59,1,148,KM MSC dataset
+1984,0,4,27,18,0,49,KM MSC dataset
+1985,0,1,123,100,2,226,KM MSC dataset
+1986,0,2,123,55,1,181,KM MSC dataset
+1987,0,17,209,87,6,319,KM MSC dataset
+1988,0,8,206,56,1,271,KM MSC dataset
+1989,0,31,55,12,0,98,NuSEDS (age readings data)
+1990,0,69,277,58,2,406,NuSEDS (age readings data)
+1991,0,45,316,40,0,401,NuSEDS (age readings data)
+1992,0,1,56,20,0,77,NuSEDS (age readings data)
+1993,0,0,7,1,0,8,NuSEDS (age readings data)
+1997,0,1,6,4,0,11,NuSEDS (age readings data)
+1998,0,4,7,8,0,19,NuSEDS (age readings data)
+1999,0,27,63,17,0,107,NuSEDS (age readings data)
+2003,0,13,118,66,2,199,NuSEDS (age readings data)
+2005,1,8,61,58,7,135,NuSEDS (age readings data)
+2006,0,1,44,11,1,57,NuSEDS (age readings data)
+2008,0,2,27,3,0,32,NuSEDS (age readings data)
+2009,0,7,14,6,0,27,NuSEDS (age readings data)
+2010,0,1,47,8,0,56,NuSEDS (age readings data)
+2011,0,0,1,5,0,6,NuSEDS (age readings data)
+2012,0,1,22,5,0,28,NuSEDS (age readings data)
+2014,0,7,16,2,0,25,NuSEDS (age readings data)
+2016,0,1,12,10,0,23,NuSEDS (age readings data)
+2018,0,0,22,10,0,32,NuSEDS (age readings data)
+2019,0,0,36,13,1,50,NuSEDS (age readings data)
+2020,0,0,5,3,0,8,NuSEDS (age readings data)
+2021,0,1,3,2,0,6,NuSEDS (age readings data)
+2022,0,3,8,2,0,13,Individual age batch data 
+2023,0,0,6,1,0,7,Individual age batch data 
+2024,0,0,8,1,0,9,Individual age batch data 
+2025,0,2,20,12,0,34,Individual age batch data 
