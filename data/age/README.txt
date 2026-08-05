@@ -1,9 +1,5 @@
-This folder contains a dump of all available data (as of June 2026) in DFO databases used to create age by source for Atnarko sockeye. Previous compilations of age data from the original spreadsheet from previous work has been archived due to being out of date and some sources not being traceable. Most data match, but that is not the case for all years. In order to perpetuate being consistent and traceable, we will move forward with entered and verified data.
-
-“Atnarko Sockeye Ages – available data”: summarizes available data. The sheet “Data Source Overview” should walk you through the databases and the filters used. The second sheet is a comparison between the downloaded data. There is a pivot for each data source showing a summary of # samples/age, year, project etc… The last sheet references the bio-data. 
-
-All raw data used to construct tables by source are in the Raw data folder. 
-All tables by source in wide format are sorted by general source in tables by source.
+All raw data used to construct age tables by source are in the Raw data folder. 
+All age tables by source in wide format are sorted by general source in tables by source.
 Final long dataset with all age data combined is titled Atnarko_sockeye_ages.csv
 
 Details on each source below:

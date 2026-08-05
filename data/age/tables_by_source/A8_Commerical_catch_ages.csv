@@ -1,4 +1,35 @@
-﻿Year,2,3,4,5,6,total successfully aged,location_desc,source,comments
-1971,0,0,35,5,0,40,Fitz Hugh Sound (8-16),KM MSc -paper scale cards from PADs,
-1972,1,59,124,131,13,328,Fitz Hugh sound,KM MSc -paper scale cards from PADs,
-1973,0,0,12,13,0,25,Fitz Hugh Sound (8-16),KM MSc -paper scale cards from PADs,
+﻿Year,2,3,4,5,6,total successfully aged,location_desc,source,gear type,source notes,if dates provided,comments
+1971,0,0,35,5,0,40,Fitz Hugh Sound (8-16),KM MSc -paper scale cards from PADs,SN,8/9 Boundary,12-Jul,
+1972,1,59,124,131,13,328,Fitz Hugh sound (8-4) Namu/Koeye,KM MSc -paper scale cards from PADs,,1972-0001 and 0002,June 21 - July 15,
+1973,0,0,12,13,0,25,Fitz Hugh Sound (8-16),KM MSc -paper scale cards from PADs,,addenbroke light,,
+1974,0,1,23,8,0,32,North Bentinck,KM MSc -paper scale cards from PADs,,Central Coast Age Database summary from Oct 31/89 ,17-Jul,
+1974,0,27,210,96,4,337,Dean/N. Bentinck/Atnarko,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/89 ,,some ages found in KM MSC- but far fewer. Default to orginal accounting by MM and SCR
+1975,0,0,685,63,0,748,Dean/N. Bentinck Arm,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/90,,no ages from KM MSC for this year
+1976,0,6,306,138,1,451,Fitzhugh/Dean/N. Bentinck,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/91,,some ages found in KM MSC- but far fewer. Default to orginal accounting by MM and SCR
+1977,0,0,110,66,0,176,None provided,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/92,,"Commerical samples in KM MSC found for Fisher channel, however did not include as perhaps these could have been the Labouchere samples or the unknown location samples"
+1977,0,0,55,7,0,62,Labouchere,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/92,July 4 and 5,
+1977,,1,41,10,1,53,Fitz Hugh Sound,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/92,4-Jul,
+1978,0,8,106,41,0,155,Bella Coola,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/93,8-Jun,no ages from KM MSC for this year
+1978,0,0,1,0,0,1,Labouchere,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/93,13-Jun,no ages from KM MSC for this year
+1979,0,0,13,9,0,22,BCGNA,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/94,18-Jun,
+1979,0,3,71,17,0,91,BCGNA,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/94,"July 2, July 3, and July 10","North Bentinck Arm July 2, and Bella Coola Docks July 3 and July 10, assumed Same fishery site"
+1980,0,1,71,17,0,89,Namu (8-4),KM MSc -paper scale cards from PADs,Troll,1980-0002,Aug 6 -16,
+1980,0,1,105,132,2,329,Namu (8-4),KM MSc -paper scale cards from PADs,SN/GN,1980-0001,10-Jul,not in original spreadsheet
+1981,0,1,37,30,1,69,Koeye boundary (8-3),KM MSc -paper scale cards from PADs,SN/GN,1981=0001 Boundary,14-Jul,not in original spreadsheet
+1981,0,1,21,19,0,41,Fitz Hugh Sound,MM and SCR original spreadsheet ,SN/GN,Central Coast Age Database summary from Oct 31/89  // 1989 Age Data- Green 2 drawer filing cabinet Campbell River Office,"July 21 and 31, and Aug 6",Sn/GN
+1982,0,0,70,22,0,92,BCGNA,MM and SCR original spreadsheet ,GN,Central Coast Age Database summary from Oct 31/89 ,July 5 and July 12,no ages from KM MSC for this year
+1983,0,0,11,8,0,19,BCGNA,MM and SCR original spreadsheet ,GN,Central Coast Age Database summary from Oct 31/89,,no ages from KM MSC for this year
+1984,0,0,59,29,0,88,Burke Channel,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/89 (Note these figures do not agree with RMS),,no ages from KM MSC for this year
+1985,0,0,34,45,0,79,Dean/Burke,MM and SCR original spreadsheet ,SN/GN,Central Coast Age Database summary from Oct 31/89,,Includes Area 8 Seine 1-4's and 1-5's and  includes 1-5's from Dean/Burke.
+1985,0,0,14,21,0,35,Labouchere,MM and SCR original spreadsheet ,GN,Central Coast Age Database summary from Oct 31/89,,
+1986,0,0,14,10,0,24,Labouchere,MM and SCR original spreadsheet ,GN,Central Coast Age Database summary from Oct 31/89 - Note all numbers check with RMS,July 6-12,abouchere Channel July 6-12 (Wk 15) 14-4's and 9-5's + 1-5's Area 8 GN.
+1987,0,0,4,7,1,12,Fitz Hugh Sound (8-3),MM and SCR original spreadsheet ,SN/GN,Original Memo's Dave Flegel (Fishery Officer) to Y. Yole (Fish Morphology Technician),,"""and marks recovered"""
+1988,0,2,4,5,0,11,Labouchere,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Oct 31/89 - Note numbers don't all check with RMS,,
+1989,0,3,27,8,0,38,Area 8,MM and SCR original spreadsheet ,GN,Central Coast Age Database summary from Oct 31/89 ,,
+1989,0,7,59,17,0,83,Area 8 ,MM and SCR original spreadsheet ,SN,Central Coast Age Database summary from Oct 31/89 ,,
+1990,0,30,134,22,0,186,Area 8,MM and SCR original spreadsheet ,,Central Coast Age Database summary from Nov 2/90,no gear noted,
+1991,0,1,139,18,9,167,unknown,MM and SCR original spreadsheet ,,PADS- unsure origin of commercial samples,,
+1993,0,0,2,0,0,2,unknown,MM and SCR original spreadsheet ,,PADS- unsure origin of commercial samples,,
+1996,0,0,5,0,1,6,Namu (8-4),MM and SCR original spreadsheet ,SN,Box #3,9-Aug-96,
+1998,0,1,9,9,1,20,unknown,MM and SCR original spreadsheet ,,PADS- unsure origin of commercial samples,,
+2000,0,0,29,9,3,41,Area 8,MM and SCR original spreadsheet ,GN,PADS- unsure origin of commercial samples,24-Jul,
