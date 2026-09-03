@@ -1,3 +1,5 @@
+Tables_by_source list each compiled source brood year tables (Commerical, FSC, and Escapement).
+
 All raw data used to construct age tables by source are in the Raw data folder. 
 All age tables by source in wide format are sorted by general source in tables by source.
 Final long dataset with all age data combined is titled Atnarko_sockeye_ages.csv
@@ -12,11 +14,14 @@ To construct FSC table from Bella Coola River Age table by year, we combined:
 
 PADS data set provided by IVY but was missing some years between 1989 to 2021 when compared to the age readings data extraction. It is unclear why some data were excluded in this database. (stored in archive unused modern data sources)- this was not used for this reason.
 * note this dataset includes all sockeye that return to spawn in the Bella Coola watershed, IE River-type River spawners in Atnarko River (IE sockeye not part of the aggregate being assessed) 
+* note that all FSC samples came from the in-river FSC. No fish wheel age data has been submitted for reading at this time.
 
 
-TO UPDATE to construct the escapement age by year table, we combined:
-
-
+To construct the escapement age by year table, we combined data from:
+1. KM's previous review of Atnarko River escapement scales /otoliths from 2019/2020 (compilation of data sheets from each year's collections to correct collection location as it is listed "Atnarko River" in NuSEDs)
+2. SCR and MM original spreadsheet for ages ( these retained some historically relevant details on samples after 2000)
+and 3. Ages Readings data Feb 2026.xlsx compiled by Ivy - pull from NUSEDs. 
+several years could not be teased apart by escapement collection location. The use of these should be avoided unless working with All stock components of Atnarko River spawners (below the lakes). 
 
 To construct the Commercial catch by year table, we combined:
 - Dataset Frankenstein-together year-by-year using the following:

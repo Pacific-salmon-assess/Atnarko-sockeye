@@ -18,8 +18,11 @@ PADS data set provided by IVY but was missing some years between 1989 to 2021 wh
 * note this dataset includes all sockeye that return to spawn in the Bella Coola watershed, IE River-type River spawners in Atnarko River (IE sockeye not part of the aggregate being assessed) 
 
 
-TO UPDATE to construct the escapement age by year table, we combined:
-
+To construct the escapement age by year table, we combined data from:
+1. KM's previous review of Atnarko River escapement scales /otoliths from 2019/2020 (compilation of data sheets from each year's collections to correct collection location as it is listed "Atnarko River" in NuSEDs)
+2. SCR and MM original spreadsheet for ages ( these retained some historically relevant details on samples after 2000)
+and 3. Ages Readings data Feb 2026.xlsx compiled by Ivy - pull from NUSEDs. 
+several years could not be teased apart by escapement collection location. The use of these should be avoided unless working with All stock components of Atnarko River spawners (below the lakes). 
 
 
 To construct the Commercial catch by year table, we combined:

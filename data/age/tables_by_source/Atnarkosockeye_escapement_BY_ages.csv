@@ -1,46 +1,46 @@
-year,2,3,4,5,6,total successfully aged,data source,source,location_desc,data source notes,data location notes/comments,change in nuseds,to include in SR model for Atnarko Lakes sockeye
-2025,0,0,110,7,0,117,age batch details - Aug 2026,escapement,Atnarko R abv Lonesome Lk,,,,y
-2025,0,33,147,27,0,207,age batch details - Aug 2026,escapement,Atnarko R bel Stillwater,,,,n
-2024,0,1,1,0,0,2,age batch details - Aug 2026,escapement,Atnarko R abv Tenas,,,,m
-2024,0,2,76,25,2,105,age batch details - Aug 2026,escapement,S Atnarko R abv Lonesome Lk,,,,y
-2024,0,1,17,0,0,18,age batch details - Aug 2026,escapement,S Atnarko R abv Rainbow,,,,m
-2024,0,2,2,0,0,4,age batch details - Aug 2026,escapement,S Atnarko R abv Stillwater,,,,m
-2024,0,8,41,8,0,57,age batch details - Aug 2026,escapement,S Atnarko R bel Stillwater,,,,n
-2023,0,3,44,44,0,91,age batch details - Aug 2026,escapement,S Atnarko R bel Stillwater,,,,n
-2023,0,0,71,23,1,95,age batch details - Aug 2026,escapement,S Atnarko R abv Lonesome Lk,,,,y
-2023,0,1,6,3,0,10,age batch details - Aug 2026,escapement,S Atnarko R abv Rainbow,,,,m
-2022,0,2,116,29,0,147,age batch details - Aug 2026,escapement,S Atnarko R bel Stillwater,,,,n
-2022,0,0,54,27,2,83,age batch details - Aug 2026,escapement,S Atnarko R abv Lonesome Lk,,,,y
-2021,0,4,97,28,1,130,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026 ,,,y
-2021,0,0,0,1,0,1,NuSEDs,escapement,S Atnarko R abv Rainbow,NuSEDs pull titled: Age readings data Feb 2026 ,,,m
-2021,2,1,5,1,0,9,NuSEDs,escapement,S Atnarko R abv Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,,m
-2021,0,5,52,38,0,95,NuSEDs,escapement,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,,n
-2020,2,1,21,0,0,24,NuSEDs,escapement,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,,n
-2020,0,5,167,6,0,178,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026 ,,,y
-2020,0,1,4,0,0,5,NuSEDs,escapement,S Atnarko R abv Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,,y
-2019,0,4,101,24,0,129,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026 ,,,y
-2018,0,3,166,35,1,205,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement ages previously. Archived mainstem otoliths somewhere at ageing lab. Need to change location in NUSEDS (sample number 2018/0139 and 2018/0357)- listed as Atnarko River- Should read S Atnarko Abv Lonesome Lk. ,yes Need to change location in NUSEDS (sample number 2018/0139 and 2018/0357)- listed as Atnarko River- Should read S Atnarko Abv Lonesome Lk. ,y
-2017,0,1,83,15,0,99,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,"Referenced KM review of escapement ages previously. No mainstem samples submitted this year. Location in NuSEDs as ""Lonesome Lake""",yes- name lonesome to S Atnarko R abv Lonesome Lk,y
-2016,0,0,25,19,0,44,NuSEDs,escapement,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement using sampling sheets to tease apart Atnarko River from Above Lonesome Lake spawners,"yes- all samples submitted as Atnarko River for mainstem and above lonesome brood. Split sample number 2016/0333 in two (44 Oto Tray SX Brood Sept 21 2016 are from mainstem broodstock and 100 from Sept 27, 2016 Oto Tray 1 Oto Tray 2 are Above Lonesome Lake)",n
-2016,0,11,152,37,0,200,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement using sampling sheets to tease apart Atnarko River from Above Lonesome Lake spawners,"yes- all samples submitted as Atnarko River for mainstem and above lonesome brood. Split sample number 2016/0333 in two (44 Oto Tray SX Brood Sept 21 2016 are from mainstem broodstock and 100 from Sept 27, 2016 Oto Tray 1 Oto Tray 2 are Above Lonesome Lake)",y
-2015,0,2,92,6,0,100,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement. Note that no mainstem brood samples submitted this year,yes- all samples from 2015 should name change from Atnarko River to S Atnarko R abv Lonesome Lk,y
-2014,0,17,6,10,0,33,NuSEDs,escapement,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,labelled as Atnarko River in location,yes- change samples from Atnarko River to Atnarko R Bel Stillwater,n
-2014,0,51,169,6,0,226,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,,,y
-2013,0,8,55,38,3,104,NuSEDs,escapement,mixed source: S Atnarko R bel Stillwater and S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,cannot separate source. Contains samples from both brood collections from Above Lonesome and Below the Lakes. I believe predominantly contains below the lakes broodstock samples.,,n
-2013,0,13,104,79,4,200,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,,,y
-2012,0,4,42,17,0,63,NuSEDs,escapement,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,,,n
-2012,0,5,173,20,2,200,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,incorrect listing in NuSEDs,yes- change part of sample label from Atnarko River to S Atnarko R abv Lonesome Lk,y
-2011,0,5,38,13,0,56,NuSEDs,escapement,unknown,NuSEDs pull titled: Age readings data Feb 2026,"no information found on origin. Previous account in 2019 did not find any datasheets or info with Nuxalk, STAD, FM, or SEP",,n
-2010,0,2,30,21,1,54,NuSEDs,escapement,unknown,NuSEDs pull titled: Age readings data Feb 2026,"no information found on origin. Previous account in 2019 did not find any datasheets or info with Nuxalk, STAD, FM, or SEP. Suspected Mainstem brood samples.",,n
-2009,0,5,108,63,1,177,NuSEDs,escapement,unknown,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019. Indicated samples came from Above Lonesome and/or Above Lonesome spawners. Unclear what portion and which area,,m
-2008,0,14,100,7,0,121,NuSEDs,escapement,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,yes- change sample number 2008/0394 from Atnarko River to S Atnarko R abv Lonesome Lk,y
-2008,0,0,18,8,0,26,NuSEDs,escapement,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,,n
-2007,0,11,25,33,6,75,NuSEDs,unk,unknown,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,,n
-2007,1,2,7,3,0,13,NuSEDs,escapement,S Atnarko R abv Stillwater,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,,m
-2007,0,0,1,4,0,5,NuSEDs,escapement,S Atnarko R abv Lonesome,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,,y
-2007,0,0,1,0,0,1,NuSEDs,escapement,S Atnarko R abv Rainbow,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,,m
-2007,0,0,0,1,0,1,NuSEDs,escapement,Rainbow lake shore,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,,m
-2005,1,4,22,5,0,32,NuSEDs,escapement,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,,n
-1997,0,0,38,14,0,52,original ATN spreadsheet,escapement,S Atnarko R abv Lonesome, Location referenced from Matt Mortimer and Steve-Cox Rogers original Atnarko R. spread sheet for breakout by source. They cited raw data from Box 3. Sept 23/1997 seine above Lonesome,,yes- change from Atnarko River to Above Lonesome. Sample number 417,y
-1997,2,25,15,2,0,44,original ATN spreadsheet,escapement,S Atnarko R abv Stillwater, Location referenced from Matt Mortimer and Steve-Cox Rogers original Atnarko R. spread sheet for breakout by source. They cited raw data from Box 3. Sept 23/1997 seine below Lonesome,,yes- change Atnarko River to Above Stillwater. Note repeat sample number 415 and 416. same data duplicates. Scales and otos?,m
-1974,0,26,117,48,1,192,original ATN spreadsheet,escapement,unknown,Matt Mortimer notes: Dead-pitch Oct 3rd. Suggests could be from between Lonesome Lake and Tenas lake. No certainty in site,no information found in further review,n,n
+year,2,3,4,5,6,total,category,data_source,collection_location,data_source_notes,collection_location_notes,to include in SR model for Atnarko Lakes sockeye
+2025,0,0,110,7,0,117,escapement,age batch,S Atnarko R abv Lonesome Lk,age batch details - Aug 2026,,y
+2025,0,33,147,27,0,207,escapement,age batch,Atnarko R bel Stillwater,age batch details - Aug 2026,,n
+2024,0,1,1,0,0,2,escapement,age batch,Atnarko R abv Tenas,age batch details - Aug 2026,,m
+2024,0,2,76,25,2,105,escapement,age batch,S Atnarko R abv Lonesome Lk,age batch details - Aug 2026,,y
+2024,0,1,17,0,0,18,escapement,age batch,S Atnarko R abv Rainbow,age batch details - Aug 2026,,m
+2024,0,2,2,0,0,4,escapement,age batch,S Atnarko R abv Stillwater,age batch details - Aug 2026,,m
+2024,0,8,41,8,0,57,escapement,age batch,S Atnarko R bel Stillwater,age batch details - Aug 2026,,n
+2023,0,3,44,44,0,91,escapement,age batch,S Atnarko R bel Stillwater,age batch details - Aug 2026,,n
+2023,0,0,71,23,1,95,escapement,age batch,S Atnarko R abv Lonesome Lk,age batch details - Aug 2026,,y
+2023,0,1,6,3,0,10,escapement,age batch,S Atnarko R abv Rainbow,age batch details - Aug 2026,,m
+2022,0,2,116,29,0,147,escapement,age batch,S Atnarko R bel Stillwater,age batch details - Aug 2026,,n
+2022,0,0,54,27,2,83,escapement,age batch,S Atnarko R abv Lonesome Lk,age batch details - Aug 2026,,y
+2021,0,4,97,28,1,130,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026 ,,y
+2021,0,0,0,1,0,1,escapement,NuSEDs,S Atnarko R abv Rainbow,NuSEDs pull titled: Age readings data Feb 2026 ,,m
+2021,2,1,5,1,0,9,escapement,NuSEDs,S Atnarko R abv Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,m
+2021,0,5,52,38,0,95,escapement,NuSEDs,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,n
+2020,2,1,21,0,0,24,escapement,NuSEDs,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,n
+2020,0,5,167,6,0,178,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026 ,,y
+2020,0,1,4,0,0,5,escapement,NuSEDs,S Atnarko R abv Stillwater,NuSEDs pull titled: Age readings data Feb 2026 ,,m
+2019,0,4,101,24,0,129,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026 ,,y
+2018,0,3,166,35,1,205,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement ages previously. Archived mainstem otoliths somewhere at ageing lab. Need to change location in NUSEDS (sample number 2018/0139 and 2018/0357)- listed as Atnarko River- Should read S Atnarko Abv Lonesome Lk. ,y
+2017,0,1,83,15,0,99,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,"Referenced KM review of escapement ages previously. No mainstem samples submitted this year. Location in NuSEDs as ""Lonesome Lake""",y
+2016,0,0,25,19,0,44,escapement,NuSEDs,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement using sampling sheets to tease apart Atnarko River from Above Lonesome Lake spawners,n
+2016,0,11,152,37,0,200,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement using sampling sheets to tease apart Atnarko River from Above Lonesome Lake spawners,y
+2015,0,2,92,6,0,100,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,Referenced KM review of escapement. Note that no mainstem brood samples submitted this year,y
+2014,0,17,6,10,0,33,escapement,NuSEDs,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,labelled as Atnarko River in location,n
+2014,0,51,169,6,0,226,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,,y
+2013,0,8,55,38,3,104,escapement,NuSEDs,mixed source: S Atnarko R bel Stillwater and S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,cannot separate source. Contains samples from both brood collections from Above Lonesome and Below the Lakes. I believe predominantly contains below the lakes broodstock samples.,n
+2013,0,13,104,79,4,200,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,,y
+2012,0,4,42,17,0,63,escapement,NuSEDs,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,,n
+2012,0,5,173,20,2,200,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,incorrect listing in NuSEDs,y
+2011,0,5,38,13,0,56,escapement,NuSEDs,unknown,NuSEDs pull titled: Age readings data Feb 2026,"no information found on origin. Previous account in 2019 did not find any datasheets or info with Nuxalk, STAD, FM, or SEP",n
+2010,0,2,30,21,1,54,escapement,NuSEDs,unknown,NuSEDs pull titled: Age readings data Feb 2026,"no information found on origin. Previous account in 2019 did not find any datasheets or info with Nuxalk, STAD, FM, or SEP. Suspected Mainstem brood samples.",n
+2009,0,5,108,63,1,177,escapement,NuSEDs,unknown,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019. Indicated samples came from Above Lonesome and/or Above Stillwater spawners. Unclear what portion and which area,m
+2008,0,14,100,7,0,121,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,y
+2008,0,0,18,8,0,26,escapement,NuSEDs,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,n
+2007,0,11,25,33,6,75,unk,NuSEDs,unknown,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,n
+2007,1,2,7,3,0,13,escapement,NuSEDs,S Atnarko R abv Stillwater,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,m
+2007,0,0,1,4,0,5,escapement,NuSEDs,S Atnarko R abv Lonesome Lk,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,y
+2007,0,0,1,0,0,1,escapement,NuSEDs,S Atnarko R abv Rainbow,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,m
+2007,0,0,0,1,0,1,escapement,NuSEDs,Rainbow lake shore,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,m
+2005,1,4,22,5,0,32,escapement,NuSEDs,S Atnarko R bel Stillwater,NuSEDs pull titled: Age readings data Feb 2026,further information found in KM review in 2019.,n
+1997,0,0,38,14,0,52,escapement,original ATN spreadsheet,S Atnarko R abv Lonesome Lk, Location referenced from Matt Mortimer and Steve-Cox Rogers original Atnarko R. spread sheet for breakout by source. They cited raw data from Box 3. Sept 23/1997 seine above Lonesome,,y
+1997,2,25,15,2,0,44,escapement,original ATN spreadsheet,S Atnarko R abv Stillwater, Location referenced from Matt Mortimer and Steve-Cox Rogers original Atnarko R. spread sheet for breakout by source. They cited raw data from Box 3. Sept 23/1997 seine below Lonesome,,m
+1974,0,26,117,48,1,192,escapement,original ATN spreadsheet,unknown,Matt Mortimer notes: Dead-pitch Oct 3rd. Suggests could be from between Lonesome Lake and Tenas lake. No certainty in site,no information found in further review,n
