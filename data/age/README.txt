@@ -15,7 +15,7 @@ To construct FSC table from Bella Coola River Age table by year, we combined:
 PADS data set provided by IVY but was missing some years between 1989 to 2021 when compared to the age readings data extraction. It is unclear why some data were excluded in this database. (stored in archive unused modern data sources)- this was not used for this reason.
 * note this dataset includes all sockeye that return to spawn in the Bella Coola watershed, IE River-type River spawners in Atnarko River (IE sockeye not part of the aggregate being assessed) 
 * note that all FSC samples came from the in-river FSC. No fish wheel age data has been submitted for reading at this time.
-
+NOTE: did not separate lower from upper BCR fishing sample sites for age samples. All would be subject to river-type spawner catch for spawners in Atnarko River below the lake system.
 
 To construct the escapement age by year table, we combined data from:
 1. KM's previous review of Atnarko River escapement scales /otoliths from 2019/2020 (compilation of data sheets from each year's collections to correct collection location as it is listed "Atnarko River" in NuSEDs)
