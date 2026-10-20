@@ -1,4 +1,5 @@
-year,River_spawners_estimates,field_method,analysis_method,residency_time,estimate confidence,notes
-2023,563,roving_float,AUC,12,,
-2024,497,roving_float,AUC,12,,
-2025,1459,roving_float,AUC,12,,
+year,River_spawners_estimates,field_method,analysis_method,residency_time,estimate confidence,class of estimate,notes
+2023,563,roving_float,AUC,12,medium,,
+2024,497,roving_float,AUC,12,medium,4,
+2025,1459,roving_float,AUC,12,medium,,
+2026,847,roving_float,AUC,12,medium,,prelim
