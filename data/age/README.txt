@@ -30,3 +30,6 @@ To construct the Commercial catch by year table, we combined:
 3. Age Readings Data Feb 2026.xlsx-- to verify existing data from source #2. No additional sources were found outside of this dataset.
 
 Limitations with Commercial age data: these are catch ages. Other populations would be included in these catches, thus these age samples. The commercial catch distribution does not necessarily reflect Atnarko sockeye age class distribution. This includes terminal fisheries. Specifically the River-type Atnarko sockeye are NOT included in the stock aggregate being assessed, thus even the BCGNA and FSC samples contain other populations outside of this analysis. 
+Recommended filtering process for escapement: remove all ATN sockeye from below the lakes (Atnarko R bel Stillwater). These spawners are of a different life history type that are not included in the escapement used for our assessment. filter column "N"
+
+Assumptions must state: River-type population are captured in FSC ages, and other stocks present in commercial catch. 
